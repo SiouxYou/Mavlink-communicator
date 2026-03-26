@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="dronekit" />
+          <option value="future" />
+          <option value="geographiclib" />
+          <option value="geopy" />
+          <option value="get-key" />
+          <option value="keyboard" />
+          <option value="lxml" />
+          <option value="monotonic" />
+          <option value="opencv-contrib-python" />
+          <option value="pygame" />
+          <option value="pymavlink" />
+          <option value="webcam-py" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
